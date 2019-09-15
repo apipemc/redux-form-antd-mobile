@@ -20,7 +20,7 @@ const mapError = ({
   ...props,
   ...inputProps,
   validateStatus: getValidateStatus(touched, error, warning, valid),
-  help: touched && (error || warning)
+  error: touched && (error || warning)
 });
 
 export const customMap = customPropsFun => props => (

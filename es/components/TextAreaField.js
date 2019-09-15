@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports["default"] = void 0;
 
-var _textareaItem = _interopRequireDefault(require("antd/lib/textarea-item"));
+var _textareaItem = _interopRequireDefault(require("antd-mobile/lib/textarea-item"));
 
 require("antd-mobile/lib/textarea-item/style/css");
 

@@ -1,4 +1,4 @@
-import TextareaItem from "antd/lib/textarea-item";
+import TextareaItem from "antd-mobile/lib/textarea-item";
 import 'antd-mobile/lib/textarea-item/style/css'; 
 
 import textFieldMap from "../maps/textFieldMap";
